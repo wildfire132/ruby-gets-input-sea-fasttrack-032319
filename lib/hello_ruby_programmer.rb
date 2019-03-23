@@ -4,4 +4,4 @@ end
 
 name = gets
 
-greeting
+greeting(name)
